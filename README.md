@@ -1,86 +1,92 @@
-## Data Engineer | Data Analyst
+# Prashanth Patil | Data Engineer Portfolio
 
-# Education
-  - degree: "Post Graduation Degree in Business Analytics: IT Computing"
-    institution: "Conestoga College, Guelph, ON"
-    completion_date: "December 2023"
-    details: "Specialized in data engineering coursework, covering advanced analytics and business intelligence."
+Welcome to my professional portfolio! I’m Prashanth Patil, an experienced Data Engineer with a strong background in ETL processes, data modeling, data warehousing, and cloud technologies. This page showcases my projects, technical skills, and professional experience in the field of data engineering and analytics.
 
-  - degree: "Bachelor's Degree in Computer Science Engineering: Information Technology"
-    institution: "RMCE, JNTUH - Hyderabad, India"
-    completion_date: "May 2014"
-    details: "Focus on Information Technology, including database management, network security, and artificial intelligence."
+---
 
-# Certifications
-  - name: "IBM Data Analyst Professional Certification"
-    date: "January 2021"
-  - name: "DP-203 Microsoft Azure Data Engineer Associate"
-    date: "August 2024"
+## 🎓 Education
+- **Post Graduate Degree in Business Analytics: IT Computing**  
+  Conestoga College, Guelph, ON  
+  *Graduated: December 2023*  
+  I specialize in advanced data engineering, analytics, and business intelligence, with coursework focused on real-world applications in data-driven decision-making.
 
-# Professional Experience
-  - title: "Data Engineer"
-    company: "Intact Public Entities"
-    location: "Cambridge, Ontario"
-    dates: "October 2023 - Present"
-    summary: "Focused on building real-time data pipelines for insurance claims processing using Kafka, AWS Glue, and Airflow. Part of the development of a real-time data pipeline for insurance claims processing, leveraging Apache Kafka for data ingestion, AWS Glue for data transformation, and Apache Airflow for orchestration. Implemented CI/CD with Azure DevOps, monitored workflows with CloudWatch, and created Power BI dashboards for real-time insights. Optimized ETL processes, achieving a 40% reduction in data processing latency and enhancing claims data accessibility and reliability across multiple AWS services"
-  
-  - title: "Power BI Developer / Sr. Data Analyst"
-    company: "Future Generali"
-    location: "Mumbai, India"
-    dates: "July 2020 - August 2022"
-    summary: "Modernized data infrastructure through a cloud-based pipeline, utilizing Azure Data Factory for data ingestion and Databricks with PySpark for data transformation. Created Power BI dashboards, allowing for actionable insights and strategic decision-making. Collaborated on ETL workflows and data modeling in Azure Synapse, improved SQL query performance, and implemented RLS to secure data access in Power BI, enhancing data quality and real-time analytics capabilities."
+- **Bachelor's Degree in Computer Science Engineering: Information Technology**  
+  RMCE, JNTUH - Hyderabad, India  
+  *Graduated: May 2014*  
+  I developed foundational skills in database management, network security, and artificial intelligence, providing a strong technical base for my data engineering career.
 
-  - title: "SQL/MSBI Developer"
-    company: "Datamatics"
-    location: "Mumbai, India"
-    dates: "January 2018 - July 2020"
-    summary: "Developed robust ETL pipelines using SSIS and Python to support daily data ingestion and transformation, ensuring data consistency across systems. Managed big data ingestion with Hadoop and Spark, loading processed data into SQL Server and Azure Data Lake for analysis. Optimized SQL queries and database performance, created detailed SSIS packages, and collaborated in Agile projects, streamlining data workflows and reducing load times for large datasets."
+---
 
-  - title: "SQL/MSBI Developer"
-    company: "Country Financial"
-    location: "Mumbai, India"
-    dates: "October 2014 - November 2017"
-    summary: "Played a key role in migrating on-premises data to SQL Server, developing SSIS packages for ETL and data quality assurance. Designed and optimized T-SQL queries, automated workflows with SQL Server Agent, and built data models for accurate reporting and analytics. Utilized BigQuery for ad hoc analysis, visualized insights in Data Studio, and collaborated with cross-functional teams to improve data governance, quality assurance, and reporting accuracy."
+## 🛠 Technical Skills
 
-# Skills
-skills:
-  - category: "Database Technologies"
-    items: ["MS SQL Server", "MySQL", "Oracle", "PostgreSQL", "Azure SQL Cloud"]
+### Database Technologies
+- **RDBMS**: MS SQL Server, MySQL, Oracle, PostgreSQL, Azure SQL Cloud
+- **NoSQL**: MongoDB
 
-  - category: "Reporting Tools"
-    items: ["Power BI", "SSRS", "Tableau", "Excel", "Crystal Reports"]
+### Data Engineering Tools
+- **ETL Tools**: Apache Airflow, Azure Data Factory, AWS Glue, SSIS
+- **Big Data**: Hadoop, Apache Spark, Databricks, Kafka
+- **Data Modeling**: Dimensional modeling (Star schema, Snowflake schema), SCD, OLTP/OLAP
 
-  - category: "Programming Languages"
-    items: ["Python", "SQL", "T-SQL", "Java", "JavaScript", "HTML", "C++", "R", "Scala", "PySpark"]
+### Reporting & Visualization
+- **Tools**: Power BI, SSRS, Tableau, Power Pivot, Power Query
+- **Skills**: Dashboard design, KPI tracking, DAX calculations, report optimization
 
-  - category: "Data Engineering Tools"
-    items: ["SSIS", "Airflow", "Apache Kafka", "Azure Data Factory", "AWS Glue", "Databricks"]
+### Programming Languages
+- **Languages**: Python (Pandas, NumPy), SQL, T-SQL, Java, JavaScript, C++, R, Scala, PySpark
+- **Scripting**: Shell scripting, Windows Scripts
 
-  - category: "Cloud Platforms"
-    items: ["Azure", "AWS", "Google Cloud Platform"]
+### Cloud Platforms
+- **Cloud Providers**: AWS, Azure, Google Cloud Platform (GCP)
+- **CI/CD**: Azure DevOps, Jenkins
 
-  - category: "Version Control"
-    items: ["Git", "GitHub", "Bitbucket", "Jira"]
+### Version Control & Project Management
+- **Version Control**: Git, GitHub, Bitbucket
+- **Project Management**: Jira, Agile methodologies, Scrum framework
 
-  - category: "Soft Skills"
-    items: ["Excellent communication", "Time management", "Critical thinking", "Problem-solving"]
+---
 
-# Featured Projects
-featured_projects:
-  - title: "Excel Report Generation for AtliQ Company"
-    description: "The primary objective of the sales analytics project is to empower businesses to monitor and evaluate their sales activities and performance effectively. This involves creating detailed customer performance reports and comparing market performance with sales targets, helping businesses identify sales patterns, track key performance indicators (KPIs), and make data-driven decisions. These reports play a vital role in determining optimal customer discounts, negotiating with consumers, and pinpointing opportunities for business expansion in high-potential markets. Similarly, the finance report aims to generate Profit and Loss (P&L) statements segmented by fiscal year, months, and markets, supporting financial performance evaluation and decision-making. Analyzing finance data facilitates benchmarking against industry standards and past performance, forming a foundation for budgeting and forecasting, and aligning financial plans with strategic goals to foster confidence in the organization’s financial health. To execute these objectives, proficiency in ETL methodologies and technical skills such as creating date tables in Power Query, deriving fiscal periods, and establishing data model relationships using Power Pivot is essential. Additionally, expertise in DAX for calculated columns and incorporating supplementary data enhances model robustness. Alongside these technical skills, an in-depth understanding of sales and finance reporting, combined with user-centered report design and optimization, enables the creation of effective and insightful reports. This systematic, empathetic approach to report generation ensures that reports are not only accurate but also relevant and accessible to stakeholders, enhancing decision-making and strategic alignment."
-    url: "https://github.com/PrashanthPPK/Fanta5tic-Solutions"
-    image: ""
+## 💼 Professional Experience
 
-  - title: "IoT Sensor Data Monitoring for Smart Cities"
-    description: "Project on analyzing real-time sensor data from traffic, pollution, and temperature sensors."
-    url: "/projects/iot-sensor-data-monitoring"
-    image: "/assets/images/iot_smart_city.png"
+### Data Engineer  
+**Intact Public Entities**  
+*October 2023 - Present | Cambridge, Ontario*  
+Developed and maintained a real-time data pipeline for insurance claims processing, utilizing Apache Kafka for data ingestion, AWS Glue for data transformation, and Apache Airflow for orchestration. Optimized ETL processes, implemented CI/CD pipelines with Azure DevOps, and monitored workflows using CloudWatch. Created Power BI dashboards to provide real-time insights, reducing data processing latency by 40% and enabling more effective claims processing.
 
-  - title: "AtliQ Motors EV Market Analysis"
-    description: "Analysis of India's EV/Hybrid market trends, including sales projections for AtliQ Motors."
-    url: "/projects/ev-market-analysis"
-    image: "/assets/images/ev_market_analysis.png"
+### Power BI Developer / Sr. Data Analyst  
+**Future Generali**  
+*July 2020 - August 2022 | Mumbai, India*  
+Built a scalable data processing pipeline using Azure Data Factory and Databricks with PySpark, allowing comprehensive data transformation and integration. Developed Power BI dashboards to provide actionable insights for decision-making, improved SQL query performance, and ensured data security through RLS. Enhanced data processing capabilities, enabling real-time analytics and increased data quality for the organization.
 
-# Build settings
-exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+### SQL/MSBI Developer  
+**Datamatics**  
+*January 2018 - July 2020 | Mumbai, India*  
+Developed and optimized ETL pipelines using SSIS, supporting daily data ingestion and transformation for SQL Server and Azure Data Lake. Managed data ingestion with Hadoop and Spark, ensuring consistency across systems and significantly reducing data load times. Actively contributed to Agile projects, streamlining workflows and providing essential insights for large-scale datasets.
+
+### SQL/MSBI Developer  
+**Country Financial**  
+*October 2014 - November 2017 | Mumbai, India*  
+Led the migration of on-premises data to SQL Server, developing SSIS packages for ETL, data quality assurance, and performance optimization. Designed T-SQL queries and automated workflows with SQL Server Agent. Conducted ad hoc analysis using BigQuery and visualized data insights, enhancing data quality and governance standards to support business objectives.
+
+---
+
+## 💡 Project Highlights
+
+### Customer Performance & Sales Analytics
+- **Objective**: Generate a comprehensive customer performance report and compare market performance against sales targets.
+- **Purpose**: Enable businesses to monitor and evaluate sales activities, identify sales patterns, and track KPIs for better decision-making.
+- **Reports**: Created insights to optimize customer discounts, enhance consumer negotiations, and explore expansion opportunities.
+
+### Financial Performance Reports
+- **Objective**: Develop Profit & Loss (P&L) reports segmented by fiscal year, month, and market.
+- **Purpose**: Aid in financial performance evaluation, strategic alignment, and communication with stakeholders.
+- **Outcome**: Supported budget forecasting and benchmarking, aligning financial planning with organizational goals.
+
+---
+
+## 🤝 Let's Connect!
+- **Email**: [prashanthpatil879@gmail.com](mailto:prashanthpatil879@gmail.com)
+- **LinkedIn**: [Prashanth Patil](https://www.linkedin.com/in/prashanthpatil879/)
+- **GitHub**: [PrashanthPPK](https://github.com/PrashanthPPK)
+
+Thank you for visiting my portfolio! I invite you to explore my repositories and reach out if you'd like to connect or collaborate.
