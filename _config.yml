@@ -11,7 +11,7 @@ github: https://github.com/PrashanthPPK
 location: "Guelph, ON, Canada"
 
 # Theme settings
-theme: minima  # You can change this to another GitHub Pages-supported theme
+theme: automatic-app-landing-page  # You can change this to another GitHub Pages-supported theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
