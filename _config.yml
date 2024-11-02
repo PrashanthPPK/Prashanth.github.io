@@ -12,19 +12,6 @@ location: "Guelph, ON, Canada"
 
 # Theme settings
 theme: automatic-app-landing-page  # You can change this to another GitHub Pages-supported theme
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Markdown and Permalinks
-markdown: kramdown
-permalink: pretty
-
-# Social links
-social_links:
-  github: https://github.com/PrashanthPPK
-  linkedin: https://www.linkedin.com/in/prashanthpatil879/
-  portfolio: https://www.novypro.com/profile_projects/prashanthpatil
 
 
 
