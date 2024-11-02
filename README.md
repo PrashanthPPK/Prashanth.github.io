@@ -1,7 +1,6 @@
-# Data Engineer | Data Analyst
+## Data Engineer | Data Analyst
 
 # Education
-education:
   - degree: "Post Graduation Degree in Business Analytics: IT Computing"
     institution: "Conestoga College, Guelph, ON"
     completion_date: "December 2023"
@@ -13,14 +12,12 @@ education:
     details: "Focus on Information Technology, including database management, network security, and artificial intelligence."
 
 # Certifications
-certifications:
   - name: "IBM Data Analyst Professional Certification"
     date: "January 2021"
   - name: "DP-203 Microsoft Azure Data Engineer Associate"
     date: "August 2024"
 
 # Professional Experience
-experience:
   - title: "Data Engineer"
     company: "Intact Public Entities"
     location: "Cambridge, Ontario"
