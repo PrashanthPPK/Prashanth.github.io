@@ -1,6 +1,6 @@
 # Prashanth Patil | Data Engineer Portfolio
 
-Welcome to my professional portfolio! I’m Prashanth Patil, an experienced Data Engineer with a strong background in ETL processes, data modeling, data warehousing, and cloud technologies. This page showcases my projects, technical skills, and professional experience in the field of data engineering and analytics.
+Welcome to my professional portfolio! I’m Prashanth Patil, an experienced Data Engineer with a strong background in ETL processes, data modeling, data warehousing, and cloud technologies. This page showcases my projects, technical skills, and professional experience in data engineering and analytics.
 
 ---
 
