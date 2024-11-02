@@ -1,1 +1,66 @@
+# Site settings
+title: "Prashanth Patil | Data Engineer Portfolio"
+description: "Portfolio of Prashanth Patil, showcasing data engineering projects and skills in ETL, cloud platforms, data warehousing, and data analysis."
+baseurl: ""  # Leave empty unless your site is in a subdirectory
+url: "https://your-github-Prashanth.github.io"  # Replace with your GitHub Pages URL
+
+# Contact info (optional)
+email: prashanthpatil879@gmail.com
+linkedin: https://www.linkedin.com/in/prashanthpatil879/
+github: https://github.com/PrashanthPPK
+location: "Guelph, ON, Canada"
+
+# Theme settings
+theme: minima  # You can change this to another supported GitHub Pages theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown and Permalinks
+markdown: kramdown
+permalink: pretty
+
+# Social links (optional)
+social_links:
+  github: https://github.com/PrashanthPPK
+  linkedin: https://www.linkedin.com/in/prashanthpatil879/
+  portfolio: https://www.novypro.com/profile_projects/prashanthpatil
+
+# Customization options
+show_excerpts: true
+paginate: 5  # Number of projects/posts per page
+
+# Navigation links
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects"
+  - name: "About Me"
+    url: "/about"
+  - name: "Contact"
+    url: "/contact"
+
+# SEO settings (optional)
+google_analytics: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID"  # Replace with your Google Analytics ID if desired
+
+# Featured projects (example layout)
+featured_projects:
+  - title: "Real-Time Job Data Analysis"
+    description: "A project analyzing job data in real-time, using Kafka, AWS S3, Glue, and Tableau for insights."
+    url: "/projects/real-time-job-data-analysis"
+    image: "/assets/images/job_data_analysis.png"  # Adjust to match your images folder
+
+  - title: "IoT Sensor Data Monitoring for Smart Cities"
+    description: "Monitoring real-time sensor data from traffic, pollution, and temperature sensors for smart city analysis."
+    url: "/projects/iot-sensor-data-monitoring"
+    image: "/assets/images/iot_smart_city.png"
+
+  - title: "AtliQ Motors EV Market Analysis"
+    description: "An analysis of India's EV/Hybrid market trends for AtliQ Motors, including sales projections and insights."
+    url: "/projects/ev-market-analysis"
+    image: "/assets/images/ev_market_analysis.png"
+
+# Build settings
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
 
