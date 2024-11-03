@@ -2,16 +2,16 @@
 title: "Prashanth Patil | Data Engineer Portfolio"
 description: "Portfolio of Prashanth Patil, highlighting expertise in ETL, cloud platforms, data warehousing, data analysis, and data engineering projects."
 baseurl: ""  # Leave empty unless your site is in a subdirectory
-url: "https://github.com/PrashanthPPK/Prashanth.github.io"  # Replace with your GitHub Pages URL
+URL: "https://github.com/PrashanthPPK/Prashanth.github.io"  # Replace with your GitHub Pages URL
 
 # Contact info
 email: prashanthpatil879@gmail.com
-linkedin: https://www.linkedin.com/in/prashanthpatil879/
-github: https://github.com/PrashanthPPK
+LinkedIn: https://www.linkedin.com/in/prashanthpatil879/
+GitHub: https://github.com/PrashanthPPK
 location: "Guelph, ON, Canada"
 
 # Theme settings
-theme: jekyll-theme-modernist  # You can change this to another GitHub Pages-supported theme
+theme: Jekyll-theme-cayman  # You can change this to another GitHub Pages-supported theme
 
 
 
