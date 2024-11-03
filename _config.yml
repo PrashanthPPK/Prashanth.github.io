@@ -11,7 +11,7 @@ github: https://github.com/PrashanthPPK
 location: "Guelph, ON, Canada"
 
 # Theme settings
-theme: jekyll-theme-tactile  # You can change this to another GitHub Pages-supported theme
+theme: jeykll-theme-minimal  # You can change this to another GitHub Pages-supported theme
 
 
 
